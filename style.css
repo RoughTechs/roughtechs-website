@@ -13,8 +13,13 @@ header {
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 .logo {
-  height: 60px;
+  height: 48px;
   margin-right: 1.5rem;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 4px;
+  border: 1px solid #eee;
 }
 .logo-link {
   display: flex;
