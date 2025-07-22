@@ -42,6 +42,17 @@ nav a:hover {
 }
 /* General link styling */
 a {
+  color: #222;
+  text-decoration: underline;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #ffd700;
+  text-decoration: underline;
+}
+/* General link styling */
+a {
   color: #0077cc;
   text-decoration: underline;
 }
